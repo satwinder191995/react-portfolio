@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.432f82f1.css",
+    "main.js": "/react-portfolio/static/js/main.aa849f61.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/1.jpeg": "/react-portfolio/static/media/1.202ba7561bbb67dc41d2.jpeg",
+    "static/media/bookaround.png": "/react-portfolio/static/media/bookaround.cedad28dccbd39a597aa.png",
+    "static/media/music.png": "/react-portfolio/static/media/music.a1d253e8c5cc4917a2c2.png",
+    "static/media/blog.png": "/react-portfolio/static/media/blog.380cb1819992c480e7c5.png",
+    "static/media/weather.png": "/react-portfolio/static/media/weather.42d76f83e42ed78f0d36.png",
+    "static/media/workday.png": "/react-portfolio/static/media/workday.8d20ba2e1e042f728c15.png",
+    "static/media/satwinder.png": "/react-portfolio/static/media/satwinder.40eecedb783dc1de7efe.png",
+    "static/media/note.png": "/react-portfolio/static/media/note.e2ab7c01063a5c34b2e2.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.432f82f1.css.map": "/react-portfolio/static/css/main.432f82f1.css.map",
+    "main.aa849f61.js.map": "/react-portfolio/static/js/main.aa849f61.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.432f82f1.css",
+    "static/js/main.aa849f61.js"
+  ]
+}
