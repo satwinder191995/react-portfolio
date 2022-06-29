@@ -2,7 +2,7 @@
 
   ## Description
 
-  A financial where user can track their money is important, but allowing them to access that information at any time is even more important.Having offline functionality is paramount to the success of an application that handles users’ financial information.
+  A portfolio made with the help of react skills.Through this employers can access my projects and learn about me.
 
   ## Table of Contents
   - [Description](#description)
@@ -15,12 +15,11 @@
 
   ## Installation
 
-  Packages installed are:<br>  1. npm init <br> 2. npm express <br> 3. npm nodemon <br>4. npm mongoose <br> 5. npm indexedDB <br> 6. npm service workers <br> 7. npm webpack <br> 8. npm webpack clis
+  Packages installed are:<br>  1. npm react <br> 2. npm gh-pages 
 
   ## Usage
 
-    Through financial app ,customers will be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling 
+  Using react, we can use same componets again and again.
 
   ## License
 
@@ -35,7 +34,7 @@ For more information on license types, please reference to this website for addi
   
   ## Tests
 
-  Validation tests and quality assurance improved the overall file. Jest environment has been used.
+  Validation tests and quality assurance improved the overall file. Jest react environment has been used.
 
   ## Questions?
 
