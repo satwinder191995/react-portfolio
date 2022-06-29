@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+ # React Portfolio [![badge](https://img.shields.io/badge/license-MIT-brightgreen)](./LICENSE)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  ## Description
 
-## Available Scripts
+  A financial where user can track their money is important, but allowing them to access that information at any time is even more important.Having offline functionality is paramount to the success of an application that handles users’ financial information.
 
-In the project directory, you can run:
+  ## Table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
-### `npm start`
+  ## Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  Packages installed are:<br>  1. npm init <br> 2. npm express <br> 3. npm nodemon <br>4. npm mongoose <br> 5. npm indexedDB <br> 6. npm service workers <br> 7. npm webpack <br> 8. npm webpack clis
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  ## Usage
 
-### `npm test`
+    Through financial app ,customers will be able to track my withdrawals and deposits with or without a data/internet connection
+SO THAT my account balance is accurate when I am traveling 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  ## License
 
-### `npm run build`
+  [![badge](https://img.shields.io/badge/license-MIT-brightgreen)](./LICENSE)
+This application is covered by the MIT license.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+For more information on license types, please reference to this website for additional licensing information - [LICENSE INFORMATION](https://opensource.org/licenses).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  ## Contributing
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  Satwinder Singh
+  
+  ## Tests
 
-### `npm run eject`
+  Validation tests and quality assurance improved the overall file. Jest environment has been used.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+  ## Questions?
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  Feel free to contact me with example or any question via the information below:
+ * Find me on Github:[satwinder191995](https://github.com/satwinder191995)
+ * Email me with any questions: [satwinder47@outlook.com](mailto:satwinder47@outlook.com)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  ## Website design image
+  ![This is website image](/public/image/budget.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  ## Heroku live app link
+  [Heroku app link](https://lit-reef-40274.herokuapp.com/)

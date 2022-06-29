@@ -1,0 +1,8 @@
+.projectImage{
+     opacity: 0.4;
+}
+
+.linkStyle:hover{
+color:blue;
+cursor: pointer;
+}
