@@ -44,7 +44,7 @@ For more information on license types, please reference to this website for addi
  * Email me with any questions: [satwinder47@outlook.com](mailto:satwinder47@outlook.com)
 
   ## Website design image
-  ![This is website image](/public/image/budget.png)
+  ![This is website image](/public/images/portfolio.png)
 
-  ## Heroku live app link
-  [Heroku app link](https://lit-reef-40274.herokuapp.com/)
+  ## Live app link
+  [Live app url]( https://satwinder191995.github.io/react-portfolio/)
